@@ -1,5 +1,9 @@
 ## Definitions/Theorems
 
+**Kuratowski's Theorem ($K_2$)**
+?
+Suppose every $3$-connected graph with no subdivision of $K_5$ or $K_{3,3}$ as a subgraph, is planar. Then every 2-connected graph with no subdivision of $K_5$ or $K_{3,3}$ as a subgraph, is planar.
+
 **Lemma**: Let $G$ be a {{2-connected planar graph}}. Then, in every planar drawing of $G$, {{every face is bounded by a cycle, and every edge is incident to 2 faces}}.
 
 **Lemma**: Let $G$ be a k-connected graph and suppose $W$ is a {{$k$-vertex cut in $G$}}. Then for each component $C$ of $G-W$ and each vertex $w\in W$, {{there exists an edge in $G$ joining $w$ to $C$}}.
