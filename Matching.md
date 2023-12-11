@@ -56,3 +56,10 @@ The minimum size of an edge cover of $G$ is denoted $\rho(G)$
 **Gallai's Theorem**: 
 ?
 For every $G$ with no isolated vertices, $\nu(G) + \rho(G) = |V(G)|$
+
+
+
+
+
+
+
