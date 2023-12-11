@@ -46,3 +46,18 @@ satisfy $\Delta(H(G,f))\leq \Delta(G)$.
 ?
 True
 
+For every graph $G$ and every pair of matchings $M$ and $M'$ of the same size in $G$, every component of the graph $H$ with vertex set $V(G)$ and edge set $M\cup M'$ has the same number of $M$-edges as $M'$-edges.
+?
+False
+
+For every bipartite graph $G$ with preference lists: when the Gale-Shapley algorithm is used with the $X$-vertices making proposals, if a vertex $y$ in $Y$ receives any proposal then $y$ is saturated by the final stable matching.
+?
+True
+
+For every pair $W$ and $U$ of vertex cuts of $G$, the union of $U$ and $W$ is a vertex cut of $G$.
+?
+False
+
+For every bipartite graph $G$ without isolated vertices, $\rho(G) = \alpha(G)$.
+?
+True

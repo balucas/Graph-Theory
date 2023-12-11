@@ -5,3 +5,6 @@ For every $d \geq 1$, prove $\nu(T)\geq (n − 1)/d$ for every tree $T$ with n v
 Prove that if $G$ is bipartite then $H(G, f )$ is bipartite for every function $f:V(G) \rightarrow \{0, 1, \dots\}$ with $f(v) \leq d(v)$ for each $v$.
 
 Give an example of a graph that has 5 disjoint vertex cuts, each of size 3. Explain your answer.
+
+Prove that if $J$ is a minor of $H$, and $H$ is a minor of $G$, then $J$ is a minor of $G$.
+
